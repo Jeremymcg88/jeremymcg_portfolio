@@ -464,6 +464,11 @@ button:active{
                 height: 33px;
             }
 
+            footer p:nth-child(1){
+                font-size: 18px;
+                width: 80%;
+            }
+
             footer p:nth-child(2){
                 width: 90%;
             }
