@@ -63,7 +63,7 @@ nav ul li a {
 }
 
 .text-container p:nth-child(3){
-    font-family: 'Trebuchet MS';
+    font-family: sans-serif;
     font-style: italic;
     color:#403e3e;
     font-size:30px;
@@ -97,12 +97,12 @@ nav ul li a {
     color:#373636;
 }
 .down-cv{
-    background-color: #0b0b0b;
-    color:#FFFFFF;
-    border:none;
+    background-color: #0b0b0b !important;
+    color:#FFFFFF !important;
+    border:none !important;
 }
 button:active{
-    transform: scale(1.1);
+    transform: scale(1.1) !important;
 }
 
 .model{
@@ -189,7 +189,7 @@ button:active{
     background-size:cover;
     box-shadow:2px 2px 12px rgba(0,0,0,0.3);
     display: flex;
-    justify-content: center;
+    justify-content:center;
     align-items: center;
     flex-direction: column;
 }

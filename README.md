@@ -26,7 +26,22 @@ WHEN I resize the page or view the site on various screens and devices
 
 THEN I am presented with a responsive layout that adapts to my viewport.
 
-BUILT WITH:
+## **BUILT WITH:**
+
 -HTML
 
 -CSS
+
+### **Screenshots:**
+
+![Screenshot](images/jeremymcg88.png)
+![Screenshot](images/jeremymcg88(3).png)
+![Screenshot](images/jeremymcg88(2).png)
+
+**The link for the live website:**
+
+https://jeremymcg88.github.io/jeremymcg_portfolio/
+
+**The repository listed here:**
+
+https://github.com/Jeremymcg88/jeremymcg_portfolio
